@@ -30,6 +30,7 @@ This demonstrates how hardware and software integrate to build a security-focuse
 ## 📂 Files
 - `rfid_doorlock.ino` — Arduino sketch (main code)  
 - Circuit diagram:
+  
    <img width="843" height="550" alt="Screenshot 2025-10-02 at 3 40 19 PM" src="https://github.com/user-attachments/assets/a69c1aa9-5fbc-4aa3-84e4-fa845731bd7a" />
 
 ---
